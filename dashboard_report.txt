@@ -1,0 +1,5 @@
+INTERACTIVE DASHBOARD REPORT
+
+Total Sales: 89000
+Total Customers: 1530
+Total Profit: 27200
